@@ -636,7 +636,7 @@ function OrionLib:MakeWindow(WindowConfig)
 		MainWindow.Visible = false
 		UIHidden = true
 		OrionLib:MakeNotification({
-			Name = "Qi脚本",
+			Name = "Qi脚本V4",
 			Content = "点击左Shift重新打开界面",
 			Time = 5
 		})
