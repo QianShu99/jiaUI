@@ -628,8 +628,8 @@ function OrionLib:MakeWindow(WindowConfig)
 		MainWindow.Visible = false
 		UIHidden = true
 		OrionLib:MakeNotification({
-			Name = "Interface Hidden",
-			Content = "Tap RightControl to reopen the interface",
+			Name = "Qi脚本",
+			Content = "官方QQ群637340150",
 			Time = 5
 		})
 		WindowConfig.CloseCallback()
