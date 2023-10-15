@@ -628,7 +628,7 @@ function OrionLib:MakeWindow(WindowConfig)
 		MainWindow.Visible = false
 		UIHidden = true
 		OrionLib:MakeNotification({
-			Name = "Qi脚本",
+			Name = "SF脚本",
 			Content = "官方QQ群637340150",
 			Time = 5
 		})
